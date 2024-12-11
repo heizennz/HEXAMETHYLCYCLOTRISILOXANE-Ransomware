@@ -1,0 +1,3 @@
+*.myext linguist-language=MyLanguage
+src/*.exe linguist-language=C#
+docs/* linguist-documentation
